@@ -1,0 +1,5 @@
+{
+  "name": "AI Stocks Auto Trade",
+  "description": "An advanced paper trading platform powered by Gemini AI recommendations. Features real-time simulated market data, portfolio tracking, auto-trading bot, and AI-driven stock analysis.",
+  "requestFramePermissions": []
+}
